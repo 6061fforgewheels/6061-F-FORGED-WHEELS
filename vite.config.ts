@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base:'/6061-f-forged-wheels/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
