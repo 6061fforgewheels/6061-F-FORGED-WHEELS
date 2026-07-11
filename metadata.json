@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 6061-F Catalog",
+  "description": "Product catalog and management system for 6061-F custom wheels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
